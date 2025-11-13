@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Company Name</title>
+  <title>Silva entreprise</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -9,15 +9,15 @@
     <nav>
       <ul>
         <li><a href="                
-        <li><a href="#">About</a></li>
+        <li><a href="#">About .html</a></li>
         <li><a href="                    
-        <li><a href="#">Contact</a></li>
+        <li><a href="#">Contact.html</a></li>
       </ul>
     </nav>
   </header>
   <main>
     <section class="hero">
-      <h1Silva enterprise </h1>
+      <h1>Silva enterprise </h1>
       <p>We provide innovative solutions for your business.</p>
       <button>Learn More</button>
     </section>
